@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1534-count-good-triplets](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3272-find-the-count-of-good-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3272-find-the-count-of-good-integers) |
 ## Combinatorics
