@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3272-find-the-count-of-good-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3272-find-the-count-of-good-integers) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3272-find-the-count-of-good-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3272-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
