@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 <!---LeetCode Topics End-->
