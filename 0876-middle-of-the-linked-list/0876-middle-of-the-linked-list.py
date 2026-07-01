@@ -14,6 +14,6 @@ class Solution:
         mid_index = count // 2 
         
         temp_var = head
-        for _ in range(mid_index):
+        for i in range(mid_index):
             temp_var=temp_var.next
         return temp_var
