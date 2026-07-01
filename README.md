@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [3272-find-the-count-of-good-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3272-find-the-count-of-good-integers) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
