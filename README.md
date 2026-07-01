@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
