@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2999-count-the-number-of-powerful-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2999-count-the-number-of-powerful-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
