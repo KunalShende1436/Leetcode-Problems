@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
