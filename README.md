@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
