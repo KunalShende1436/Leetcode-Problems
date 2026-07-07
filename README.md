@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
