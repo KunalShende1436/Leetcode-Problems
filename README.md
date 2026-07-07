@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1470-shuffle-the-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3272-find-the-count-of-good-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/3272-find-the-count-of-good-integers) |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
