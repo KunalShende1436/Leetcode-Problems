@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 | [2843-count-symmetric-integers](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KunalShende1436/Leetcode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
